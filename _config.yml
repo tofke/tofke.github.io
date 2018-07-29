@@ -1,6 +1,6 @@
 baseurl: ""
 url: "https://tofke.github.io"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
    - jekyll-mentions
    - jemoji
